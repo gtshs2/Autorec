@@ -2,3 +2,5 @@ Autorec : Autoencoder meets Collaborative Filtering
 (Sedhain, S., Menon, A. K., Sanner, S., & Xie, L. (2015, May). Autorec: Autoencoders meet collaborative filtering. In Proceedings of the 24th International Conference on World Wide Web (pp. 111-112). ACM.)
 
 Python Tensorflow Implementation
+
+ml-1m RMSE : 0.8402
